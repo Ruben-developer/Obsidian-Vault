@@ -1,0 +1,192 @@
+## Versiones de Java
+
+- Java 1.0 (1996):
+	- Primera versión de Java lanzada al mercado.
+- Java 1.1 (1997): 
+	- Mejoras en la gestión de eventos, programación en red y nuevas clases de utilidades.
+- Java 1.2 (1998):
+    - Swing API, una interfaz gráfica de usuario más avanzada.
+    - Colecciones.
+    - Mejoras en la gestión de hilos, entre otras.
+- Java 1.3 (2000):
+    - Java Sound API.
+    - HotSpot JVM.
+    - Mejoras en el manejo de excepciones y en la carga dinámica de clases.
+- Java 1.4 (2002):
+    - Java Web Start.
+    - Paquete java.nio.
+    - Entre otras mejoras.
+- Java 5 (2004):
+    - Generics.
+    - Anotaciones.
+    - Enumeraciones.
+    - Aumento del límite de tamaño de archivos, entre otras mejoras.
+- Java 6 (2006):
+    - Soporte para nuevas arquitecturas.
+    - Mejoras de la JVM y nuevas clases.
+- Java 7 (2011):
+    - Invocación dinámica.
+    - Switch con strings.
+    - Manejo de excepciones en una sola línea.
+    - Soporte multicatch.
+    - Mejoras en el manejo de lenguajes dinámicos, entre otras.
+- Java 8 (2014):
+    - Expresiones lambda.
+    - Streams API.
+    - Fecha y Hora API.
+    - Funciones Predicado, entre otras mejoras.
+- Java 9 (2017):
+    - Módulos.
+    - REPL (JShell).
+    - Mejoras en Streams y API de colecciones, entre otras mejoras.
+- Java 10 (2018):
+    - Inferencia de tipos.
+    - Mejoras en la gestión de hilos y en la interoperabilidad entre código nativo y Java.
+- Java 11 (2018):
+    - HTTP Client.
+    - Recolector de basura G1 por defecto.
+    - Mejoras de seguridad, entre otras.
+- Java 12 (2019):
+    - Switch con expresiones.
+    - Nueva memoria tamponada.
+    - Microbenchmarking, entre otras mejoras.
+- Java 13 (2019):
+    - Text Blocks.
+    - Eliminación de FlatMaps anidados.
+    - Mejoras en la JVM, entre otras.
+- Java 14 (2020):
+    - Registros.
+    - Patrones para instanceof.
+    - Conversión de switch mejorada.
+    - Herramienta jpackage, entre otras mejoras.
+- Java 15 (2020):
+    - Características de programación funcional.
+    - API de tiempo.
+    - Mejoras en la versión de texto, entre otras.
+- Java 16 (2021):
+    - Patrón de instancias mejorado.
+    - Registro de sellos.
+    - API de procesamiento de vectores, entre otras mejoras.
+- Java 17 (2021):
+    - Mejoras en la seguridad.
+    - Cambio de memoria ZGC predeterminado.
+    - Patrón de sellado mejorado, entre otras.
+- Java 18 (prevista para el futuro):
+    - Se espera que incluya mejoras en la programación simultánea.
+    - Soporte para registros en tipos genéricos, entre otros cambios planificados.
+
+## Versiones en Spring
+
+- Spring 1.0 (2004):
+    - Implementó componentes y servicios basados en POJO.
+    - Proporcionó soporte para AOP utilizando AspectJ.
+    - 
+- Spring 2.0 (2006):
+    - Soporte para Java 5, incluyendo anotaciones.
+    - Soporte para JPA y Hibernate.
+    - Soporte para Web Services.
+    - 
+- Spring 3.0 (2009):
+    - Soporte para Java 5 y 6.
+    - Soporte para EJB 3.0 y JMS.
+    - Soporte para RESTful Web Services.
+    - Mejora en la inyección de dependencias.
+    - 
+- Spring 4.0 (2013):
+    - Soporte para Java 8.
+    - Soporte para WebSocket y STOMP.
+    - Mejora en las capacidades de Cache.
+    - Capacidades de gestión de perfiles.
+    - 
+- Spring 5.0 (2017):
+    
+    - Soporte para Java 9.
+    - Soporte para Reactive programming.
+    - Mejoras en el soporte de Cloud.
+- Spring 5.1 (2018):
+    - Soporte para Java EE 8.
+    - Soporte para Kotlin.
+    - Mejoras en la propiedad de validación.
+    - Mejoras en la integración de seguridad.
+    
+- Spring 5.2 (2019):
+    - Soporte para Java 13 y Jakarta EE 8.
+    - Soporte para RSocket.
+    - Mejoras en las capacidades de Cache.
+    - Mejoras en la funcionalidad de Jackson.
+    
+## Versiones en Springboot
+
+- Spring Boot 1.0 (2014):
+    - Inicio de Spring Boot.
+    - Proporciona auto-configuración de aplicaciones.
+    - Soporte para Tomcat, Jetty y Undertow.
+- Spring Boot 1.1 (2014):
+     - Soporte para CRaSH.
+    - Proporciona configuración de Spring Boot actuator.
+    - Soporte para abiertura de OAuth.
+- Spring Boot 1.2 (2014):
+    - Soporte para Groovy en configuración y pruebas de integración.
+    - Soporte para Spring Boot CLI.
+    - Ofrece un sistema de métricas.
+- Spring Boot 1.3 (2015):
+     - Soporte para HATEOAS.
+    - Mejoras en la configuración de propiedades.
+    - Soporte de autenticación OAuth2.
+- Spring Boot 1.4 (2016):
+    - Soporte para metrics personalizados.
+    - Mejoras en la configuración de propiedades.
+    - Soporte para speleología de código.
+- Spring Boot 1.5 (2017):
+    - Soporte para Spring Data Kay y Kafka.
+    - Mejoras en la auto-configuración de aplicaciones.
+    - Soporte mejorado de devtools.
+- Spring Boot 2.0 (2018):
+    - Soporte para Java 9.
+    - Soporte para Reactive programming.
+    - Soporte de métricas avanzadas.
+- Spring Boot 2.1 (2018):
+    - Ofrece soporte para Kotlin.
+    - Mejoras en la capacidad de Testing.
+    - Soporte mejorado de devtools.
+- Spring Boot 2.2 (2019):
+   - Soporte para Java 13.
+    - Mejoras en la capacidad de Testing.
+    - Soporte mejorado de devtools.
+- Spring Boot 2.3 (2020):
+    - Ofrece soporte para Java 14.
+    - Mejoras en la auto-configuración de aplicaciones.
+    - Soporte para Spring Data Neumann.
+- Spring Boot 2.4 (2020):
+    - Soporte para Java 15.
+    - Mejoras en la auto-configuración de aplicaciones.
+    - Mejoras en las capacidades actuator.
+    - Soporte de base de datos in-memory más rápido.
+- Spring Boot 2.4.1 (2020):
+    - Solución a errores de compatibilidad con Spring WebFlux.
+- Spring Boot 2.4.2 (2021):
+    - Solución a errores de compatibilidad con Spring Data MongoDB.
+    - Mejoras en la forma en que se propagan los valores predeterminados de configuración.
+- Spring Boot 2.4.3 (2021):
+    - Solución a errores de compatibilidad con la validación del lado del servidor de Java.
+- Spring Boot 2.5 (2021):
+    - Soporte para Java 16.
+    - Mejoras en la auto-configuración de aplicaciones.
+    - Soporte para la última versión de Spring Data: 2021.0.
+    - Soporte para límites de velocidad mejorados.
+    - Capacidad de implementación de compilación nativa mediante GraalVM.
+    - Soporte para endpoints de seguimiento de operaciones remotas (RTO).
+- Spring Boot 2.5.1 (2021):
+    - Solución a errores de compatibilidad en la propagación de valores de configuración.
+- Spring Boot 2.5.2 (2021):
+    - Solución a errores de compatibilidad en actuator y Spring Batch.
+- Spring Boot 2.5.3 (2021):
+    - Solución a errores de compatibilidad con Spring WebFlux.
+- Spring Boot 2.5.4 (2021):
+    - Solución a errores de compatibilidad con Spring WebFlux y actuator.
+- Spring Boot 2.6 (2022):
+    - Soporte para Java 17.
+    - Mejoras en la auto-configuración de aplicaciones.
+    - Soporte para la última versión de Spring Data: 2022.0.
+    - Soporte para la última versión de Tomcat.
+    - Soporte para HTTP/2 mediante Jetty y Undertow.

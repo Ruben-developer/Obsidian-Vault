@@ -1,0 +1,5 @@
+Es una práctica de programación en la que se escriben primero las pruebas automatizadas antes de escribir el código fuente del software. La idea es que las pruebas describen el comportamiento esperado del software y que, al ejecutarlas, se asegura que el software cumple con los requisitos establecidos.
+
+Algunos ejemplos de TDD en Java pueden incluir la creación de clases y métodos que satisfagan las pruebas, para así construir software de forma iterativa y enfocada en los requerimientos. Por ejemplo, el uso de [[Junit]], una herramienta de pruebas unitarias de Java, es muy común en la implementación de TDD en Java, permitiendo que los desarrolladores escriban primero las pruebas antes de escribir el código. También hay otras herramientas en Java, como [[Mockito]], que permiten crear varias pruebas unitarias y de integración, hasta llegar a una aplicación bien probada y escalable.
+
+![[Pasted image 20230705115744.png]]

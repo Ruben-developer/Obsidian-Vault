@@ -1,0 +1,190 @@
+{
+  "workspaces": {
+    "notes": {
+      "main": {
+        "id": "24d1cd71e3cd5931",
+        "type": "split",
+        "children": [
+          {
+            "id": "35a8d6313ac4f647",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e4ed13d9e6df72a2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notas/Angular/2. Preguntas Frontend.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c3c8fe6ea8009029",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ofertas laborales/Lead Brazoderecho.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1f428574c48fb8d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ofertas laborales/Plantilla.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d9dd124655fc4dce",
+        "type": "split",
+        "children": [
+          {
+            "id": "cf81175a3ab4d2eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5701db1b922ba447",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "f8a8634f7e6fa31c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "ea165ec60e89483b",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "dd38e18086cfd233",
+        "type": "split",
+        "children": [
+          {
+            "id": "3015e7b724371280",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "716a8cd7a866b79e",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4e4841a4e5a520b7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1d87cc600c9b42cb",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "026ae3a73d60fb58",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ec82f4d7061d387e",
+                "type": "leaf",
+                "state": {
+                  "type": "ava.write.sidebar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "zk-prefixer:Create new unique note": false,
+          "ava:Ava": false,
+          "ava:Ava - Show Links": false,
+          "ava:Ava - Open Rewrite Playground": false,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "active": "5701db1b922ba447"
+    }
+  },
+  "active": "notes"
+}

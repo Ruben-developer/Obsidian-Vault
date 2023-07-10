@@ -1,0 +1,1 @@
+Esta carpeta es responsable de recibir las solicitudes HTTP y enviar las respuestas JSON a los clientes. Un ejemplo de archivo que se puede encontrar aquí es MyResource.java o MyController, que podría contener métodos como GET, POST, PUT, DELETE, entre otros, para manejar las solicitudes a la API.
